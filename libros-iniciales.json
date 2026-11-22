@@ -1,0 +1,915 @@
+[
+ {
+  "autor": "Margaret Atwood",
+  "empezado": "2025-01-31",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Ciencia ficción"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "EL CUENTO DE LA CRIADA",
+  "valoracion": 0,
+  "id": "18df42d8fe0980588ee2de059fcdc1f8"
+ },
+ {
+  "autor": "Chloe Walsh",
+  "empezado": "2025-01-14",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Tommen Boys 2",
+  "terminado": "",
+  "titulo": "KEEPING 13",
+  "valoracion": 4,
+  "id": "18df42d8fe0980a39b42d0fd16bbb112"
+ },
+ {
+  "autor": "Chloe Walsh",
+  "empezado": "2024-12-01",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Tommen boys 1",
+  "terminado": "",
+  "titulo": "BINDING 13",
+  "valoracion": 5,
+  "id": "18df42d8fe0980d38f37c155dad438dc"
+ },
+ {
+  "autor": "Brandon Sanderson",
+  "empezado": "2020-06-26",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "Nacidos de la bruma 1",
+  "terminado": "",
+  "titulo": "EL IMPERIO FINAL",
+  "valoracion": 5,
+  "id": "18ef42d8fe09803b96bceca99751f845"
+ },
+ {
+  "autor": "Brandon Sanderson",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "papel",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "Nacidos de la bruma 2",
+  "terminado": "",
+  "titulo": "EL POZO DE LA ASCENSIÓN",
+  "valoracion": 0,
+  "id": "18ef42d8fe098044a6ead4eedbdc5c70"
+ },
+ {
+  "autor": "Cassandra Clare",
+  "empezado": "2024-11-27",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "Cazadores de sombras 1",
+  "terminado": "",
+  "titulo": "CIUDAD DE HUESO",
+  "valoracion": 3,
+  "id": "18ef42d8fe0980ef9c60fee62a7bff97"
+ },
+ {
+  "autor": "Gabrielle Zevins",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Drama"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "TOMORROW AND TOMORROW AND TOMORROW",
+  "valoracion": 0,
+  "id": "191f42d8fe098027852dcf3e40fefc2c"
+ },
+ {
+  "autor": "Chloe Walsh",
+  "empezado": "2025-03-28",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Tommen boys 3",
+  "terminado": "",
+  "titulo": "SAVING 6",
+  "valoracion": 4,
+  "id": "191f42d8fe0980869872c98fe413268d"
+ },
+ {
+  "autor": "Chloe Walsh",
+  "empezado": "",
+  "estado": "abandonado",
+  "formato": "ebook",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Tommen boys 5",
+  "terminado": "",
+  "titulo": "TAMING 7",
+  "valoracion": 0,
+  "id": "191f42d8fe0980afba72c064bd73c9d3"
+ },
+ {
+  "autor": "Koshun Takami",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Thriller"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "BATTLE ROYALE",
+  "valoracion": 0,
+  "id": "191f42d8fe0980c4a9c6e450daa2879e"
+ },
+ {
+  "autor": "Callie Hart",
+  "empezado": "2025-08-10",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "Fae & Alchemy 1",
+  "terminado": "",
+  "titulo": "QUICKSILVER",
+  "valoracion": 0,
+  "id": "191f42d8fe0980d3845af4c17a1ce340"
+ },
+ {
+  "autor": "Lorena Franco",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Thriller"
+  ],
+  "notas": "Los casos de Vega Martín 1",
+  "terminado": "",
+  "titulo": "NADA SUCEDE DOS VECES",
+  "valoracion": 0,
+  "id": "191f42d8fe0980f0af2afd9c127e5448"
+ },
+ {
+  "autor": "Stephanie Garber",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "Caraval",
+  "terminado": "",
+  "titulo": "CARAVAL",
+  "valoracion": 0,
+  "id": "192f42d8fe0980438c5bc18861125321"
+ },
+ {
+  "autor": "Lorena Franco",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Thriller"
+  ],
+  "notas": "Los casos de Vega Martín 2",
+  "terminado": "",
+  "titulo": "LA PAREJA PERFECTA ES UN FRAUDE",
+  "valoracion": 0,
+  "id": "192f42d8fe09805686baf49b07464b9c"
+ },
+ {
+  "autor": "Hannag Grace",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Maple hills",
+  "terminado": "",
+  "titulo": "ROMPER EL HIELO",
+  "valoracion": 0,
+  "id": "192f42d8fe0980768d86eb26891dd33f"
+ },
+ {
+  "autor": "Sarah J. Maas",
+  "empezado": "2025-04-01",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "ACOTAR 2",
+  "terminado": "",
+  "titulo": "UNA CORTE DE NIEBLA Y FURIA",
+  "valoracion": 4,
+  "id": "192f42d8fe0980cbb4b8e6c0d49badb1"
+ },
+ {
+  "autor": "Rebecca Kuang",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Drama"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "YELLOWFACE",
+  "valoracion": 0,
+  "id": "192f42d8fe0980dc82dbec831fa89b05"
+ },
+ {
+  "autor": "Sarah J. Maas",
+  "empezado": "2024-11-22",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "ACOTAR 1",
+  "terminado": "",
+  "titulo": "UNA CORTE DE ROSAS Y ESPINAS",
+  "valoracion": 4,
+  "id": "192f42d8fe0980dfa872cf741ec34ca8"
+ },
+ {
+  "autor": "Alice Oseman",
+  "empezado": "",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Heartstopper 4",
+  "terminado": "",
+  "titulo": "MAS QUE PALABRAS",
+  "valoracion": 5,
+  "id": "194f42d8fe098026979eec7760cabb54"
+ },
+ {
+  "autor": "Ma dao zu shi",
+  "empezado": "",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "GRANDMASTER OF DEMONIC CULTIVATION 3",
+  "terminado": "",
+  "titulo": "GRANDMASTER OF DEMONIC CULTIVATION",
+  "valoracion": 0,
+  "id": "194f42d8fe098033bb53f5acfdd0df3e"
+ },
+ {
+  "autor": "Alice Oseman",
+  "empezado": "",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Heartstopper 1",
+  "terminado": "",
+  "titulo": "DOS CHICOS JUNTOS",
+  "valoracion": 5,
+  "id": "194f42d8fe09803c8e0cc507c13e4955"
+ },
+ {
+  "autor": "Alice Oseman",
+  "empezado": "",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Heartstopper 2",
+  "terminado": "",
+  "titulo": "MI PERSONA FAVORITA",
+  "valoracion": 5,
+  "id": "194f42d8fe09804ab4f9ccfc02395004"
+ },
+ {
+  "autor": "Alice Oseman",
+  "empezado": "",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Heartstopper 5",
+  "terminado": "",
+  "titulo": "CRECIENDO CONTIGO",
+  "valoracion": 5,
+  "id": "194f42d8fe09805b9f32e04213101229"
+ },
+ {
+  "autor": "Ma dao zu shi",
+  "empezado": "",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "GRANDMASTER OF DEMONIC CULTIVATION 1",
+  "terminado": "",
+  "titulo": "GRANDMASTER OF DEMONIC CULTIVATION",
+  "valoracion": 0,
+  "id": "194f42d8fe09809d8f9afa33abdc59e2"
+ },
+ {
+  "autor": "Akimi Yoshida",
+  "empezado": "",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Manga/Cómic"
+  ],
+  "notas": "Banana fish",
+  "terminado": "",
+  "titulo": "BANANA FISH 1",
+  "valoracion": 0,
+  "id": "194f42d8fe0980a0b53ac42d457f7abb"
+ },
+ {
+  "autor": "Holly Black",
+  "empezado": "2025-02-08",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "Los Habitantes Del Aire 1",
+  "terminado": "",
+  "titulo": "EL PRÍNCIPE CRUEL",
+  "valoracion": 3,
+  "id": "194f42d8fe0980aaab07f55edbc694c5"
+ },
+ {
+  "autor": "Ma dao zu shi",
+  "empezado": "",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "GRANDMASTER OF DEMONIC CULTIVATION 2",
+  "terminado": "",
+  "titulo": "GRANDMASTER OF DEMONIC CULTIVATION",
+  "valoracion": 0,
+  "id": "194f42d8fe0980c0b130dcc9dd4776ba"
+ },
+ {
+  "autor": "Alice Oseman",
+  "empezado": "",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Heartstopper 3",
+  "terminado": "",
+  "titulo": "UN PASO ADELANTE",
+  "valoracion": 5,
+  "id": "194f42d8fe0980d68686cd04d97d8b0a"
+ },
+ {
+  "autor": "Matt Haig",
+  "empezado": "2025-02-12",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "THE MIDNIGHT LIBRARY",
+  "valoracion": 4,
+  "id": "199f42d8fe098004a1ccd94a6d189f09"
+ },
+ {
+  "autor": "Radio Bradbury",
+  "empezado": "2025-02-13",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Ciencia ficción"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "FAHRENHEIT 451",
+  "valoracion": 2,
+  "id": "19bf42d8fe09803b8249e9a628a909c8"
+ },
+ {
+  "autor": "Holly Black",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "Los Habitantes Del Aire 2",
+  "terminado": "",
+  "titulo": "EL REY MALVADO",
+  "valoracion": 0,
+  "id": "19bf42d8fe0980dd88affa8dfd203e23"
+ },
+ {
+  "autor": "Cherry Chic",
+  "empezado": "2025-02-17",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Rose Lake 1",
+  "terminado": "",
+  "titulo": "CUANDO SE ROMPA EL CIELO Y CAIGAN LAS ESTRELLAS",
+  "valoracion": 3,
+  "id": "1a7f42d8fe09807c824ac8dc0abc5acd"
+ },
+ {
+  "autor": "Margaret Mcdonald",
+  "empezado": "2025-03-07",
+  "estado": "abandonado",
+  "formato": "papel",
+  "generos": [
+   "Drama"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "GLASGOW BOYS",
+  "valoracion": 0,
+  "id": "1b5f42d8fe098032b303d22af56c56ce"
+ },
+ {
+  "autor": "Cherry Chic",
+  "empezado": "2025-02-21",
+  "estado": "terminado",
+  "formato": "papel",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Rose Lake 2",
+  "terminado": "",
+  "titulo": "CUANDO ACABE EL INVIERNO Y VOLVAMOS A VOLAR",
+  "valoracion": 4,
+  "id": "1c5f42d8fe0980a9b1fed7a088ce2fbd"
+ },
+ {
+  "autor": "Rebecca Yarros",
+  "empezado": "",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "Empyrean 1",
+  "terminado": "",
+  "titulo": "FOURTH WING",
+  "valoracion": 0,
+  "id": "1c7f42d8fe09803cbf1acb9ad2efd5e4"
+ },
+ {
+  "autor": "Alexandra Bracken",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "papel",
+  "generos": [
+   "Ciencia ficción"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "PASAJERA",
+  "valoracion": 0,
+  "id": "1c7f42d8fe098066babee433618aa7c8"
+ },
+ {
+  "autor": "Morgan Rice",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "Oathborne",
+  "terminado": "",
+  "titulo": "AÑO UNO",
+  "valoracion": 0,
+  "id": "1c9f42d8fe0980baa117d3272d18ff30"
+ },
+ {
+  "autor": "Roxie Noir",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Loveless Brothers",
+  "terminado": "",
+  "titulo": "ENEMIES WITH BENEFITS",
+  "valoracion": 0,
+  "id": "1c9f42d8fe0980e8a508e4e2b8529992"
+ },
+ {
+  "autor": "Douglas Stuart",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "papel",
+  "generos": [
+   "Drama"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "SHUGGIE BAIN",
+  "valoracion": 0,
+  "id": "1f5f42d8fe09801e8dedd71d2693891c"
+ },
+ {
+  "autor": "Hanya Yanagihara",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "papel",
+  "generos": [
+   "Drama"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "A LITTLE LIFE",
+  "valoracion": 0,
+  "id": "1f5f42d8fe098050b980e6ede1583044"
+ },
+ {
+  "autor": "Taylor Jenkins Reid",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "papel",
+  "generos": [
+   "Drama"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "DAISY JONES & THE SIX",
+  "valoracion": 0,
+  "id": "1f5f42d8fe098080ac0ff4c528cfb510"
+ },
+ {
+  "autor": "Madeline Miller",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "papel",
+  "generos": [
+   "Clásico"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "THE SONG OF ACHILLES",
+  "valoracion": 0,
+  "id": "1f5f42d8fe0980a1ab7beca295d5e823"
+ },
+ {
+  "autor": "Douglas Stuart",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "papel",
+  "generos": [
+   "Drama"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "Young Mungo",
+  "valoracion": 0,
+  "id": "1f5f42d8fe0980cab4b0e726714e0285"
+ },
+ {
+  "autor": "Rodrigo Paniagua",
+  "empezado": "2025-04-14",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "MI ENEMIGO FAVORITO",
+  "valoracion": 3,
+  "id": "215f42d8fe09802d90e7dbe108590174"
+ },
+ {
+  "autor": "Sarah Rivens",
+  "empezado": "2025-11-03",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Captive",
+  "terminado": "",
+  "titulo": "Captive 1",
+  "valoracion": 3,
+  "id": "2a6f42d8fe098018a381f519e19e7ee4"
+ },
+ {
+  "autor": "Rachel Reid",
+  "empezado": "2025-12-10",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "The Game Changers",
+  "terminado": "",
+  "titulo": "HEATED RIVARLY",
+  "valoracion": 0,
+  "id": "2c8f42d8fe098006b850f0b31f70eee8"
+ },
+ {
+  "autor": "Ali Hazelwood",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "LA HIPÓTESIS DEL AMOR",
+  "valoracion": 0,
+  "id": "3fef42d8fe0981b98ac6e34cd627efea"
+ },
+ {
+  "autor": "Rebecca Yarros",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "papel",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "The Empyrean 2",
+  "terminado": "",
+  "titulo": "IRON FLAME",
+  "valoracion": 0,
+  "id": "3fef42d8fe0981e783e4f593f27454b7"
+ },
+ {
+  "autor": "Stephenie Garber",
+  "empezado": "2025-12-14",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "Érase una vez un corazón roto",
+  "terminado": "",
+  "titulo": "ÉRASE UNA VEZ UN CORAZÓN ROTO",
+  "valoracion": 4,
+  "id": "400f42d8fe09802a8331fb37d82423d2"
+ },
+ {
+  "autor": "Stephanie",
+  "empezado": "2025-12-18",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "Érase una vez un corazón roto 3",
+  "terminado": "",
+  "titulo": "La maldición del amor verdadero",
+  "valoracion": 4,
+  "id": "400f42d8fe09804aa845fc6176d280c3"
+ },
+ {
+  "autor": "Rina Kent",
+  "empezado": "2026-06-07",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Dark romance"
+  ],
+  "notas": "Villain 2",
+  "terminado": "",
+  "titulo": "HUNT THE VILLAIN",
+  "valoracion": 4,
+  "id": "400f42d8fe098075a1b4dbd1293b82b2"
+ },
+ {
+  "autor": "Stephenie Garber",
+  "empezado": "2025-12-17",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "Érase una vez un corazón roto 2",
+  "terminado": "",
+  "titulo": "La balada de nunca jamás",
+  "valoracion": 4,
+  "id": "400f42d8fe0980c8b6f4c01fa0ea5b46"
+ },
+ {
+  "autor": "C.S. Pacata",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Dark romance"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "EL PRÍNCIPE CAUTIVO",
+  "valoracion": 0,
+  "id": "400f42d8fe098113800cccc5433a9838"
+ },
+ {
+  "autor": "Brea Alepóu y Skyler Snow",
+  "empezado": "",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Dark romance"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "TAKE ME APART",
+  "valoracion": 4,
+  "id": "400f42d8fe09811abdbafe797eab3bf4"
+ },
+ {
+  "autor": "Ana Coello",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "Boston 1",
+  "terminado": "",
+  "titulo": "INEFABLE",
+  "valoracion": 0,
+  "id": "400f42d8fe09811f8a15c53adbecc1d8"
+ },
+ {
+  "autor": "Tal Bauer",
+  "empezado": "",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "SECRET SERVICE",
+  "valoracion": 5,
+  "id": "400f42d8fe09815d8a2bce859964c957"
+ },
+ {
+  "autor": "Nyla K",
+  "empezado": "2026-08-23",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Dark romance"
+  ],
+  "notas": "Alabaster Penitentiary 1",
+  "terminado": "",
+  "titulo": "DISTORTED",
+  "valoracion": 5,
+  "id": "400f42d8fe09816c8bcdc7954632a957"
+ },
+ {
+  "autor": "K.A. Merikan",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Dark romance"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "THEIR BOUNTY",
+  "valoracion": 0,
+  "id": "400f42d8fe098170bd8ccc207e100139"
+ },
+ {
+  "autor": "Nyla K",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Dark romance"
+  ],
+  "notas": "Alabaster Penitentiary 2",
+  "terminado": "",
+  "titulo": "FRAGMENTS",
+  "valoracion": 0,
+  "id": "400f42d8fe098179b31bf3d9367e6024"
+ },
+ {
+  "autor": "Elliot Rose",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Romance"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "SAVING RAIN",
+  "valoracion": 0,
+  "id": "400f42d8fe0981a189b9c87588fdacb7"
+ },
+ {
+  "autor": "Nyla K",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "ebook",
+  "generos": [
+   "Dark romance"
+  ],
+  "notas": "Alabaster Penitentiary 2",
+  "terminado": "",
+  "titulo": "FRAGMENTS",
+  "valoracion": 0,
+  "id": "400f42d8fe0981aaacc2d53826c35a7f"
+ },
+ {
+  "autor": "Sarah J. Maas",
+  "empezado": "",
+  "estado": "pendiente",
+  "formato": "papel",
+  "generos": [
+   "Fantasía"
+  ],
+  "notas": "ACOTAR 4",
+  "terminado": "",
+  "titulo": "UNA CORTE DE HIELO Y ESTRELLAS",
+  "valoracion": 0,
+  "id": "402f42d8fe0981de876ec9a4c55dff3b"
+ },
+ {
+  "autor": "Alberto Conejero",
+  "empezado": "2026-10-31",
+  "estado": "terminado",
+  "formato": "ebook",
+  "generos": [
+   "Bélico",
+   "Realista"
+  ],
+  "notas": "",
+  "terminado": "2026-10-31",
+  "titulo": "PIEDRA OSCURA",
+  "valoracion": 5,
+  "id": "40af42d8fe0981ddaf07c8fa607e2b1f"
+ },
+ {
+  "autor": "Alana S. Portero",
+  "empezado": "2026-11-02",
+  "estado": "leyendo",
+  "formato": "papel",
+  "generos": [
+   "Realista",
+   "Drama"
+  ],
+  "notas": "",
+  "terminado": "",
+  "titulo": "Cosamala",
+  "valoracion": 0,
+  "id": "40cf42d8fe09817c858ae6310322e6f2"
+ },
+ {
+  "id": "40bf42d8fe0981c193e5ffcc796c6652",
+  "titulo": "Mi año de descanso y relajación",
+  "autor": "Ottessa Moshfegh",
+  "formato": "ebook",
+  "estado": "pendiente",
+  "empezado": "2026-10-31",
+  "terminado": "",
+  "valoracion": 0,
+  "notas": "",
+  "generos": [
+   "Drama",
+   "Realista"
+  ]
+ }
+]
